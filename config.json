@@ -15,7 +15,7 @@
         	"url": "stratum+tcp://eu.luckpool.net:3957",
 		"timeout": 150
 	}
-{
+	],
 	"user": "RDEbhD5SLqEyG6kMzrFujUPVJ2gz6aba1b.S20",
 	"pass": "x",
 	"algo": "verus",
