@@ -5,7 +5,7 @@
         	"url": "stratum+tcp://verushash.auto.nicehash.com:9200",
 		"timeout": 150
 	},
-
+{
 	"user": "34ZTFgCcbLhNwzZQcnkGVNh5yRqQar8S3m.worker1",
 	"pass": "x",
 	"algo": "verus",
